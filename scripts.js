@@ -1,7 +1,5 @@
 const button = document.querySelector('#enter');
 
-console.log(button)
-
 const login = document.querySelector('#login');
 
 const password = document.querySelector('#pass');
