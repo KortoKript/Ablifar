@@ -1,3 +1,5 @@
+alert('Hey!')
+
 const button = document.querySelector('#enter');
 
 const login = document.querySelector('#login');
